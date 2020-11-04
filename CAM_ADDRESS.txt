@@ -1,0 +1,5 @@
+Enter this for IPCAMERA:-
+	rtsp://admin:@192.9.202.140:554/1
+	{rtsp://USERID:PASSWORD@IP_ADD:554/1}
+
+Enter 0 for Webcam:-
